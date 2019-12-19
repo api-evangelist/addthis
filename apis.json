@@ -1,0 +1,70 @@
+{
+    "name": "AddThis",
+    "description": "AddThis website tools include share buttons, targeting tools and content recommendations help you get more likes, shares and followers and keep them coming back.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1814-addthis.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "embeddable",
+        "have api",
+        "links",
+        "no api definition",
+        "sharing",
+        "social bookmarking"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/addthis\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AddThis",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1814-addthis.jpg",
+            "humanURL": "http:\/\/www.addthis.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/addthis-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.addthis.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.addthis.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.addthis.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/addthis"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/addthis"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/support.addthis.com\/customer\/portal\/topics\/174660-developers\/articles"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/addthis"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.addthis.com\/"
+        }
+    ]
+}
